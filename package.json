@@ -1,0 +1,24 @@
+{
+  "name": "gruntphantom2",
+  "description": "",
+  "author": " <>",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-banner": "^0.6.0",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-newer": "^1.1.0",
+    "grunt-sass": "^1.1.0",
+    "grunt-svgmin": "^3.2.0",
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.1.1"
+  }
+}
